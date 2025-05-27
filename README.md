@@ -1,5 +1,12 @@
 # Group_14_Diabetes_Prediction
 
+Group Members:
+1.Angelina -202401100300041
+2.Aditya Shivhare - 202401100300018 
+3.Anish Chaudhary- 202401100300046
+4.Abhishek Kumar - 202401100300007
+5.Amarjeet Yadav- 202401100300033
+
 Overview
 This project involves data analysis and prediction related to health metrics (such as diabetes prediction) using machine learning. It uses Python with libraries like `pandas`, `matplotlib`, and `scikit-learn` to build and evaluate a logistic regression model.
 
